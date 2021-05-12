@@ -17,3 +17,63 @@ Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/p
 Variable PHP
 
 Menambahkan variable pada program.
+
+
+![image](https://user-images.githubusercontent.com/56193251/118015551-9b702000-b37e-11eb-9643-3892e6dfd0be.png)
+
+![image](https://user-images.githubusercontent.com/56193251/118015617-adea5980-b37e-11eb-8851-d6d18ce12259.png)
+
+Predefine Variable $_GET 
+
+![image](https://user-images.githubusercontent.com/56193251/118015769-d83c1700-b37e-11eb-93c5-717a568da6b3.png)
+ 
+ membuat form input 
+
+![image](https://user-images.githubusercontent.com/56473376/118005098-46c7a780-b374-11eb-8d1c-adfaeb62990f.png)
+
+![image](https://user-images.githubusercontent.com/56473376/118005178-5a730e00-b374-11eb-884e-21ec7c979b6c.png)
+
+Operator 
+
+![image](https://user-images.githubusercontent.com/56473376/118005292-75de1900-b374-11eb-9737-c490a16c7c4e.png)
+ 
+ ![image](https://user-images.githubusercontent.com/56473376/118005365-84c4cb80-b374-11eb-8be4-04e17ec26fba.png)
+ 
+ kondisi IF 
+ 
+ ![image](https://user-images.githubusercontent.com/56473376/118005464-9c9c4f80-b374-11eb-8272-aa84066f7853.png)
+
+![image](https://user-images.githubusercontent.com/56473376/118005592-b5a50080-b374-11eb-86e6-7457541c0f0d.png)
+ 
+ Kondisi switch 
+ 
+ ![image](https://user-images.githubusercontent.com/56473376/118005704-d1a8a200-b374-11eb-8fd5-1e1f85e9da80.png)
+
+![image](https://user-images.githubusercontent.com/56473376/118005776-e127eb00-b374-11eb-894d-54e89717a8c9.png)
+ 
+ perulangan for 
+ 
+ ![image](https://user-images.githubusercontent.com/56473376/118006350-63b0aa80-b375-11eb-97e5-77ec25fa1166.png)
+ 
+ ![image](https://user-images.githubusercontent.com/56473376/118006466-7925d480-b375-11eb-803b-ab2aef828e08.png)
+ 
+ perulangan while
+ 
+![image](https://user-images.githubusercontent.com/56473376/118006547-8cd13b00-b375-11eb-9ed2-eced82dbc69a.png)
+
+![image](https://user-images.githubusercontent.com/56473376/118009101-f7837600-b377-11eb-85d8-d50916e0fddf.png)
+
+ 
+ perulangan dowhile 
+ 
+ ![image](https://user-images.githubusercontent.com/56473376/118006695-ae322700-b375-11eb-80c6-dc8d700e2d67.png)
+
+![image](https://user-images.githubusercontent.com/56473376/118006717-b4c09e80-b375-11eb-8ba6-f9ccea4b685d.png)
+
+tugas praktikum 
+
+ ![image](https://user-images.githubusercontent.com/56473376/118006884-dae63e80-b375-11eb-9d76-db8474dde119.png)
+
+![image](https://user-images.githubusercontent.com/56473376/118006932-e2a5e300-b375-11eb-9fcc-7f9d6c460ea4.png)
+ 
+ ![image](https://user-images.githubusercontent.com/56193251/118016238-60222100-b37f-11eb-9222-db68d25173fd.png)
